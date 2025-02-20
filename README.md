@@ -11,6 +11,8 @@ ByUsi 是一个专注于开发实用型工具的创新型技术团队，致力�
 
 ### 🎯 活跃项目
 
+[![ByUsi/Proxy内网穿透](https://gitee.com/byusi/proxy/widgets/widget_card.svg?colors=4183c4,ffffff,ffffff,e3e9ed,666666,9b9b9b)](https://gitee.com/byusi/proxy)
+
 #### FoxCM 视频平台
 **技术架构**：Python Flask + JSON文件存储 + Bootstrap  
 **核心功能**：  
