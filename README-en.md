@@ -1,6 +1,6 @@
 # ByUsi Team Introduction
 
-[简体中文](README.mf) **English** [繁体中文](README-zh-uf.md)
+[简体中文](README.md) **English** [繁体中文](README-zh-uf.md)
 
 ## Team Overview
 ByUsi is an innovative technology team focused on developing practical tools, dedicated to enhancing user experience through simple and elegant solutions. Adhering to the philosophy of "tools serving people," the team continues to explore innovative practices in web application development.
