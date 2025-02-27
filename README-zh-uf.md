@@ -11,7 +11,7 @@ ByUsi 是一個專注於開發實用型工具的創新型技術團隊，致力�
 
 ### 🎯 活躍項目
 
-[![ByUsi/Proxy内网穿透](https://gitee.com/byusi/proxy/widgets/widget_card.svg?colors=4183c4,ffffff,ffffff,e3e9ed,666666,9b9b9b)](https:// gitee.com/byusi/proxy)
+[![ByUsi/Proxy内网穿透](https://gitee.com/byusi/proxy/widgets/widget_card.svg?colors=4183c4,ffffff,ffffff,e3e9ed,666666,9b9b9b)](https://gitee.com/byusi/proxy)
 
 #### FoxCM 視頻平台
 **技術架構**：Python Flask + JSON文件存儲 + Bootstrap  
