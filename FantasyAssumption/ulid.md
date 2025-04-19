@@ -1,7 +1,8 @@
 # ULID (Universal Lexicographic Unique Identifier) 技术文档  
 **——基于 512 位原生数据与 128 字符编码的增强型标识符**  
-**[演示demo（仅进行生成）](http://api.www.byusi.cn/ulid/)**
-**[ULID的官方Python库](https://github.com/ByUsiTeam/ulid)**
+**[演示demo（仅进行生成）](http://api.www.byusi.cn/ulid/)**  
+**[ULID的官方Python库](https://github.com/ByUsiTeam/ulid)**  
+**[ULID-Python实现库](https://gitee.com/byusi/ulid)**
 
 ---
 
