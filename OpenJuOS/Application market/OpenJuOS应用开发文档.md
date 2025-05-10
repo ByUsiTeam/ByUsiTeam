@@ -59,7 +59,7 @@ AppUrlJr=https://foxcm.byusi.cn=AppUrlJr
 ---
 
 ## 📮 应用上架申请
-**联系邮箱：** [开发者支持中心](mailto:admin@520world.top)
+**联系邮箱：** [开发者支持中心](mailto:public@work.byusi.cn)
 
 **邮件模板：**
 ```text

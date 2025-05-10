@@ -14,7 +14,7 @@ ByUsi 是一个专注于开发实用型工具的创新型技术团队，致力�
 [![ByUsi/Proxy内网穿透](https://gitee.com/byusi/proxy/widgets/widget_card.svg?colors=4183c4,ffffff,ffffff,e3e9ed,666666,9b9b9b)](https://gitee.com/byusi/proxy)
 
 ## 连接我们
-📧 **技术支持**：admin@520world.top  
+📧 **技术支持**：public@work.byusi.cn  
 🌐 **官方网站**：[https://www.byusi.cn](https://www.byusi.cn)  
 💾 **代码仓库**：[gitee.com/byusi](https://gitee.com/byusi)  
 
