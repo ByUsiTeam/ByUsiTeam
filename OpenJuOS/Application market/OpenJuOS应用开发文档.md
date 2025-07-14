@@ -1,7 +1,6 @@
-以下是优化后的文档版本，重点改进了结构、格式和可读性：
-
 # OpenJuOS 应用开发指南
 **兼容系统：** ProperOS | JuOS
+> **[ProperOS的系统API文档](https://gitee.com/properos/devdoccenter)**
 
 ---
 
